@@ -11,4 +11,4 @@ ajouter ce fichier dans le fichier ./public/slides/ordre
 
 Lancer ./make-slides.sh
 
-ecekeçamarch
+ecekeçamarch2
