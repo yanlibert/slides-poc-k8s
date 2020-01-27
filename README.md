@@ -10,5 +10,3 @@ Attention le fichier de slide doit commencer par \<section\> et finir par \</sec
 ajouter ce fichier dans le fichier ./public/slides/ordre
 
 Lancer ./make-slides.sh
-
-ecekeçamarch2
